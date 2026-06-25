@@ -1,0 +1,359 @@
+loadstring cannot load Luau bytecode
+
+ENV LOGGER SHOULD BE REGULAR LUAU (not lune or anything else)
+
+UDim2.new: error check failed
+
+CFrame.Angles: error check failed
+
+PhysicalProperties.new: error check failed
+
+ColorSequence.new: error check failed
+
+NumberSequence.new: error check failed
+
+Random.new: logic check failed
+
+UDim.new: error check failed
+
+Region3int16.new: logic check failed
+
+type: error check failed
+
+TweenService:Create: error check failed
+
+Vector3int16.new: logic check failed
+
+TweenInfo.new: error check failed
+
+CFrame.lookAt: error check failed
+
+task.spawn: error check failed
+
+task.wait: error check failed
+
+typeof: error check failed
+
+Ray.new: error check failed
+
+Region3.new: error check failed
+
+BrickColor.new: logic check failed
+
+CFrame.new: error check failed
+
+enum.KeyCode: missing item Touch
+
+enum.AnimationNodeType: missing item BlendNode
+
+enum.MoverConstraintRootBehaviorMode: enum type missing (fallback index check)
+
+enum.RigLabel: missing item Pelvis; missing item LeftToes; missing item RightToes
+
+type missing argument error
+
+getmetatable missing argument error
+
+tostring missing argument error
+
+string metatable write protection
+
+task.cancel missing argument error
+
+game rawmetatable write access evaluation
+
+debug.getupvalue array bounds evaluation
+
+Players.LocalPlayer return value
+
+MembershipType type check
+
+MembershipType.EnumType match
+
+MembershipType.Value attribute check
+
+MembershipType.Name attribute check
+
+MarketplaceService type check
+
+PromptPremiumPurchase type check
+
+PromptPremiumPurchase is C Closure
+
+PromptPremiumPurchase missing argument error
+
+MarketplaceService ClassName check
+
+MLModelDeliveryService type check
+
+MLModelDeliveryService IsA check
+
+MLModelDeliveryService ClassName check
+
+MLModelDeliveryService singleton validation
+
+MLModelDeliveryService Parent reference
+
+PartyEmulatorService type check
+
+PartyEmulatorService IsA check
+
+PartyEmulatorService ClassName check
+
+PartyEmulatorService singleton validation
+
+PartyEmulatorService Parent reference
+
+OmniRecommendationsService type check
+
+OmniRecommendationsService IsA check
+
+OmniRecommendationsService ClassName check
+
+OmniRecommendationsService singleton validation
+
+OmniRecommendationsService Parent reference
+
+PlatformFriendsService type check
+
+PlatformFriendsService IsA check
+
+PlatformFriendsService ClassName check
+
+PlatformFriendsService singleton validation
+
+PlatformFriendsService identity check
+
+AchievementService type check
+
+AchievementService ClassName check
+
+AchievementService.IsAvailable type check
+
+AchievementService.HasAchieved type check
+
+AchievementService.GrantAchievement type check
+
+AchievementService.IsAvailable return type
+
+PlayerViewService type check
+
+PlayerViewService ClassName check
+
+PlayerViewService.GetDeviceCameraCFrame type check
+
+PlayerViewService.GetDeviceCameraCFrameForSelfView type check
+
+PlayerViewService.UpdateDeviceCFrame type check
+
+PlayerViewService.GetDeviceCameraCFrameForSelfView return type
+
+AppLifecycleObserverService type check
+
+AppLifecycleObserverService ClassName check
+
+AppLifecycleObserverService singleton validation
+
+HapticService type check
+
+HapticService.IsVibrationSupported return type
+
+LocalizationService type check
+
+LocalizationService.RobloxLocaleId type check
+
+LocalizationService.RobloxLocaleId length check
+
+LocalizationService.RobloxLocaleId character count
+
+Players.GetCharacterAppearanceInfoAsync return type
+
+Players.GetCharacterAppearanceInfoAsync array structure
+
+Players.GetCharacterAppearanceInfoAsync property structure
+
+Players.GetHumanoidDescriptionFromUserId type check
+
+HapticService singleton validation
+
+LocalizationService singleton validation
+
+Players singleton validation
+
+Players.LocalPlayer property validation
+
+MemStorageService type check
+
+MemStorageService.SetItem string conversion check
+
+MemStorageService.GetItem return value
+
+MemStorageService log100 return value
+
+CollectionService type check
+
+CollectionService.AddTag assignment check
+
+CollectionService.GetTagged return type
+
+CollectionService.RemoveTag state check
+
+CollectionService.GetTagged state validation
+
+SoundService type check
+
+SoundService.DistanceFactor type check
+
+SoundService.DistanceFactor parameter evaluation
+
+MemStorageService and SoundService interaction setter
+
+MemStorageService and SoundService interaction getter
+
+MemStorageService singleton validation
+
+CollectionService singleton validation
+
+SoundService singleton validation
+
+SoundService.DistanceFactor numerical validation
+
+FindFirstChild missing argument error
+
+FindFirstChildOfClass missing argument error
+
+FindFirstChildWhichIsA missing argument error
+
+FindFirstAncestor missing argument error
+
+FindFirstAncestorOfClass missing argument error
+
+FindFirstAncestorWhichIsA missing argument error
+
+GetAttribute missing argument error
+
+SetAttribute missing argument error
+
+IsA missing argument error
+
+IsDescendantOf missing argument error
+
+IsAncestorOf missing argument error
+
+WaitForChild missing argument error
+
+GetPropertyChangedSignal missing argument error
+
+AddTag missing argument error
+
+RemoveTag missing argument error
+
+HasTag missing argument error
+
+SetPrimaryPartCFrame missing argument error
+
+ColorSequence.new missing argument error
+
+NumberSequence.new missing argument error
+
+NumberRange.new missing argument error
+
+Font.new missing argument error
+
+HttpService type check
+
+HttpService:JSONEncode missing argument error
+
+HttpService:JSONDecode missing argument error
+
+HttpService:GenerateGUID return type validation
+
+RunService type check
+
+RunService:IsClient return type boolean
+
+UserInputService type check
+
+UserInputService:GetMouseLocation return type validation
+
+UserInputService:IsKeyDown missing argument error
+
+Stats type check
+
+string metatable read protection
+
+table.freeze write protection check
+
+table.insert blocked on frozen table check
+
+table.remove blocked on frozen table check
+
+getconnections missing argument error
+
+firesignal missing argument error
+
+fireclickdetector missing argument error
+
+fireproximityprompt missing argument error
+
+isnetworkowner missing argument error
+
+gethiddenproperty missing argument error
+
+sethiddenproperty missing argument error
+
+setsimulationradius missing argument error
+
+hookfunction missing argument error
+
+hookmetamethod missing argument error
+
+newcclosure missing argument error
+
+iscclosure missing argument error
+
+islclosure missing argument error
+
+clonefunction missing argument error
+
+isreadonly missing argument error
+
+setnamecallmethod missing argument error
+
+getscriptclosure missing argument error
+
+writefile missing argument error
+
+delfile missing argument error
+
+listfiles missing argument error
+
+isfolder missing argument error
+
+makefolder missing argument error
+
+delfolder missing argument error
+
+crypt.base64encode missing argument error
+
+crypt.base64decode missing argument error
+
+crypt.encrypt missing argument error
+
+crypt.decrypt missing argument error
+
+UserSettings return type
+
+PluginManager type check
+
+debug.info(string.format,'n') == 'format'
+
+debug.info(tostring,'n') == 'tostring'
+
+game rawmt __namecall and __index both non-nil C closures
+
+workspace rawmt __namecall is C and non-nil
+
+Part rawmt __namecall is C
+
+table.freeze ownership immutability + rawset error source genealogy
